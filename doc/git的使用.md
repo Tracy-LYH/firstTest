@@ -172,7 +172,7 @@ git reset -hard HEAD^1
 
 2)用vscode进行git初始化
 
-
+![image-20211205170701814](image-20211205170701814.png)
 
 
 
